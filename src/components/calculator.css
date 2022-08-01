@@ -1,0 +1,17 @@
+.container{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+.display{
+  border-style: inset;
+  border-width: 4px;
+}
+.btn {
+  border-radius: 1em;
+  border-style: outset;
+  border-width: 4px;
+  font-size: 1em;
+}
+.btn:hover {
+  border-style: inset;
+  border-width: 4px;
+}
