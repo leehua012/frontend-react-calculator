@@ -5,6 +5,7 @@ class Calculator extends Component {
   render() {
     return(
       <div className="container">
+        <div className="calculator-container">
       <div className="row pb-0 p-3">
         <div className="display bg-dark rounded">
           <div className="prev-operand pt-2 text-white text-end fs-6">
@@ -52,6 +53,7 @@ class Calculator extends Component {
           <button className="btn btn-primary col-12 ">=</button>
         </div>
         </div>
+      </div>
       </div>
     </div>
     )

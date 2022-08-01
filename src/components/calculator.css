@@ -1,5 +1,8 @@
-.container{
+.calculator-container{
   background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  max-width: 50%;
+  margin: auto!important;
+  padding: 15px!important;
 }
 .display{
   border-style: inset;
