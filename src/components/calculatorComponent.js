@@ -35,7 +35,7 @@ class Calculator extends Component {
         <button className="btn btn-primary col-2 btn-n">7</button>
         <button className="btn btn-primary col-2 btn-n">8</button>
         <button className="btn btn-primary col-2 btn-n">9</button>
-        <button className="btn btn-primary col-3 btn-db">AC</button>
+        <button className="btn btn-primary col-3 btn-vel">AC</button>
         <button className="btn btn-primary col-3 btn-db">DEL</button>
       </div>
       <div className="row gx-0 mb-1">
