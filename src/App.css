@@ -1,0 +1,7 @@
+.tf{
+  font-family: 'Kaushan Script', 'Caveat', cursive;
+  font-weight: 900;
+  background: -webkit-linear-gradient(rgb(145, 161, 205), rgb(34, 30, 78));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
