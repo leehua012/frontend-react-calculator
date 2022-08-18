@@ -48,6 +48,10 @@
   background-color: #353b48;
   border-color: #353b48;
 }
+.btn-n:hover{
+  background-color: #2e3236;
+  border-color: #2e3236;
+}
 .btn-vel{
   background-color: #562c2c;
   border-color: #562c2c;
